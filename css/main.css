@@ -1,1 +1,19 @@
 /* Place CSS styles here */
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    color:purple;
+    /*distribute font to entire site*/ 
+    font-family: 'Merriweather', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Karla', sans-serif;
+}
