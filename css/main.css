@@ -9,11 +9,17 @@ body{
     font-family: 'Merriweather', serif;
 }
 
+/*distribute font to all headings*/
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-    font-family: 'Karla', sans-serif;
+font-family: 'Karla', sans-serif;
+}
+
+p {
+    font-size: 20px;
+    background-color: #efefef;
 }
